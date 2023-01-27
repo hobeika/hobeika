@@ -1,11 +1,4 @@
 <a href="https://github.com/hobeika">
-    <img align="center" width="49%" src="./github-metrics.svg" />
-</a>
-
-
-<!--
-
-<a href="https://github.com/hobeika">
   <img align="center" width="49%" src="./header.svg" />
 </a>
 
@@ -41,6 +34,11 @@
 
 <a href="https://github.com/hobeika">
     <img align="center" width="49%" src="./contributions.svg" />
+</a>
+
+<!--
+<a href="https://github.com/hobeika">
+    <img align="center" width="49%" src="./github-metrics.svg" />
 </a>
 
 **hobeika/hobeika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

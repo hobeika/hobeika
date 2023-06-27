@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.6504698095775" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="290.6504698095775" y="0" width="113.77019522616911" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="404.4206650357466" y="0" width="15.248866394330133" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="419.66953143007674" y="0" width="14.32890738039758" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="433.99843881047434" y="0" width="12.32148107687212" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="446.31991988734643" y="0" width="9.611321916892807" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.9312418042393" y="0" width="2.3407499520602473" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="458.2719917562995" y="0" width="1.7280082437005229" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="210.0521116289409" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="210.0521116289409" y="0" width="201.08379925649203" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.13591088543296" y="0" width="13.557492521735576" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="424.69340340716855" y="0" width="11.020304175579527" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="435.7137075827481" y="0" width="10.990361721364955" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="446.70406930411303" y="0" width="10.355452907266722" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="457.0595222113797" y="0" width="1.6916520745613304" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="458.75117428594103" y="0" width="1.2488257140589412" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -147,15 +147,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        SCSS
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f0c040" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Smarty
+                        SCSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -165,9 +165,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#f0c040" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Python
+                        Smarty
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
